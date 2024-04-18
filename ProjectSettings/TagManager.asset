@@ -41,3 +41,18 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: BG
+    uniqueID: 2555067741
+    locked: 0
+  - name: GOB
+    uniqueID: 2241195557
+    locked: 0
+  - name: ITEMS
+    uniqueID: 114316239
+    locked: 0
+  - name: PUPS
+    uniqueID: 2362677323
+    locked: 0
+  - name: UPPUpS
+    uniqueID: 3720218659
+    locked: 0
