@@ -1,10 +1,37 @@
 fileFormatVersion: 2
-guid: 570e7cc4fa5149d4baca6d1d2342ffbb
+guid: e7409b360db6fe74ca109690ee7a0b77
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -608112088230385668
-    second: TX Tileset Stone Ground_0
+      213: -1733087341866461178
+    second: TX Tileset Wall_0
+  - first:
+      213: 6957734447361721616
+    second: TX Tileset Wall_1
+  - first:
+      213: 6591716156378716260
+    second: TX Tileset Wall_2
+  - first:
+      213: 2165944517536112100
+    second: TX Tileset Wall_3
+  - first:
+      213: 6429608448122266744
+    second: TX Tileset Wall_4
+  - first:
+      213: -8038740358467470550
+    second: TX Tileset Wall_5
+  - first:
+      213: -5334644376926737371
+    second: TX Tileset Wall_6
+  - first:
+      213: -5954229690154693420
+    second: TX Tileset Wall_7
+  - first:
+      213: -522149132528552129
+    second: TX Tileset Wall_8
+  - first:
+      213: 6981085378657702106
+    second: TX Tileset Wall_9
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,32 +125,11 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_0
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 224
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: cf72865174d8f87f0800000000000000
-      internalID: -608112088230385668
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Tileset Stone Ground_1
+      name: TX Tileset Wall 1_0
       rect:
         serializedVersion: 2
         x: 32
-        y: 224
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -133,18 +139,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7c6333a0226b7ee4b84aecc5ee7fb7eb
-      internalID: 1636278136
+      spriteID: c1e49d4f29e42f542b6dcdc44f97d8fe
+      internalID: 1011076528
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_2
+      name: TX Tileset Wall 1_1
       rect:
         serializedVersion: 2
         x: 64
-        y: 224
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -154,18 +160,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 8cc5f0149136d9a42ad478f556651f91
-      internalID: -343117258
+      spriteID: fdf04dcfa479d8e48acd219b4680363a
+      internalID: -1025767443
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_3
+      name: TX Tileset Wall 1_2
       rect:
         serializedVersion: 2
         x: 96
-        y: 224
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -175,18 +181,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7fb9a300d48e5e546b43a40d1fe1f293
-      internalID: -86392279
+      spriteID: 2975764375687e549afc962921a3c585
+      internalID: 687373922
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_4
+      name: TX Tileset Wall 1_3
       rect:
         serializedVersion: 2
         x: 128
-        y: 224
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -196,18 +202,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 594f40f0c1060ab4697ecbe4b2435dd8
-      internalID: -1219966952
+      spriteID: 0e4ae811f55e72449a0200a45433b3e0
+      internalID: -1241056233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_5
+      name: TX Tileset Wall 1_4
       rect:
         serializedVersion: 2
         x: 160
-        y: 224
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -217,18 +223,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: fadbdaa66469f3442988ed7f7afeae6c
-      internalID: -1044738960
+      spriteID: 715551f69d6ca5c4eb255ee829e82852
+      internalID: 952923510
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_6
+      name: TX Tileset Wall 1_5
       rect:
         serializedVersion: 2
         x: 192
-        y: 224
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -238,18 +244,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f55663768b5a8f642b495b894c26b26a
-      internalID: 1760521597
+      spriteID: e44a8ab24866bda4094eb0c98c9f8a96
+      internalID: -1955319718
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_7
+      name: TX Tileset Wall 1_6
       rect:
         serializedVersion: 2
         x: 224
-        y: 224
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -259,18 +265,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: ac8a0833778d5c34692ce562c675f880
-      internalID: 54461591
+      spriteID: 0fe59031b5281ff4b8e9d7912e3dca47
+      internalID: 392294902
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_8
+      name: TX Tileset Wall 1_7
       rect:
         serializedVersion: 2
-        x: 0
-        y: 192
+        x: 256
+        y: 448
         width: 32
         height: 32
       alignment: 0
@@ -280,18 +286,123 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51add8c3bf1ad0a4ba6e435bc3dc1e8d
-      internalID: -2000626295
+      spriteID: 7b3f2eee3f73c2a40b25885d2cbb33a8
+      internalID: -220636790
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_9
+      name: TX Tileset Wall 1_8
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3753633ff31dcf048b6124ffeed7ac62
+      internalID: 1610772702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_9
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc9b57097af35bb44b48346e1e67b1fd
+      internalID: 1479504173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_10
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857ad36acec5e47408107fa1034ee8e1
+      internalID: 779816708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_11
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 247fd5d0b188fe2469db5b833a3bb326
+      internalID: -445480260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_12
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 448
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e152439cd324fa04fa0d44b848d19e44
+      internalID: 340956052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_13
       rect:
         serializedVersion: 2
         x: 32
-        y: 192
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -301,39 +412,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: eb59db4fcd1bd1e4684e856398ecbd39
-      internalID: 706409645
+      spriteID: 75e6ac96b407363449b1a15624a51f06
+      internalID: -1336909722
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_10
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 192
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6da267c265a82df4b88b2757fdf6ea55
-      internalID: 441328984
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Tileset Stone Ground_11
+      name: TX Tileset Wall 1_14
       rect:
         serializedVersion: 2
         x: 96
-        y: 192
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -343,18 +433,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: bf1c5788561aba345bc18b8b3a681959
-      internalID: 2099487960
+      spriteID: 18152a811487bb4479636adbea59f0bb
+      internalID: -2141357599
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_12
+      name: TX Tileset Wall 1_15
       rect:
         serializedVersion: 2
         x: 128
-        y: 192
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -364,18 +454,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c914e6229431aea4794e7a0e29debb52
-      internalID: 1045405548
+      spriteID: a1ce4f4c9059af3408c38b9e760c036e
+      internalID: -2127858444
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_13
+      name: TX Tileset Wall 1_16
       rect:
         serializedVersion: 2
         x: 160
-        y: 192
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -385,18 +475,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1981f34a4b02e434abd68e2afdbea59c
-      internalID: 802995452
+      spriteID: 941b3e2b14f05ae48b147b883073c039
+      internalID: 791628975
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_14
+      name: TX Tileset Wall 1_17
       rect:
         serializedVersion: 2
         x: 192
-        y: 192
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -406,18 +496,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 7d0e9a7c961d5cd4d80204cea18b1f0b
-      internalID: -302992079
+      spriteID: a440d2bced14fc1468f602e9c7e003bb
+      internalID: -206745186
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_15
+      name: TX Tileset Wall 1_18
       rect:
         serializedVersion: 2
         x: 224
-        y: 192
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -427,18 +517,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c702c7656fb13ad42ba160bfc4fd5be4
-      internalID: -80906868
+      spriteID: e06cb30ef1c6c2443906d7fb04c87b54
+      internalID: 1468115086
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_16
+      name: TX Tileset Wall 1_19
       rect:
         serializedVersion: 2
-        x: 0
-        y: 160
+        x: 256
+        y: 416
         width: 32
         height: 32
       alignment: 0
@@ -448,18 +538,102 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a00aa0c3d4e59994cad3ae970bfcbe93
-      internalID: 21641683
+      spriteID: 84cabd5ab07215b4da2049df64cd1505
+      internalID: 28092964
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_17
+      name: TX Tileset Wall 1_20
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 884b5de0d36d64f4fb3ebabe07d70d13
+      internalID: 629545830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_21
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccec4672a3ec9124f98a19c4cc20b2f4
+      internalID: -1852543311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_22
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b8226dba3aed247a41c6a2aad1afb1
+      internalID: -1771272751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_23
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 416
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1eb1c53b16ee054ba4ae16f3ece69e6
+      internalID: -1692391863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_24
       rect:
         serializedVersion: 2
         x: 32
-        y: 160
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -469,18 +643,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f470d55f56b4526479d5e1b03866eb06
-      internalID: -603437594
+      spriteID: 139a5356a62261745b9483cc2f550ebf
+      internalID: -1557050380
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_18
+      name: TX Tileset Wall 1_25
       rect:
         serializedVersion: 2
         x: 64
-        y: 160
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -490,18 +664,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ae7ce940dae40a40807c84078554745
-      internalID: -872517026
+      spriteID: 59a8429da36d22c43b90dfac20222515
+      internalID: -67578514
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_19
+      name: TX Tileset Wall 1_26
       rect:
         serializedVersion: 2
         x: 96
-        y: 160
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -511,18 +685,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 87c99d9d6fa8ee74d8125a5e588c02e4
-      internalID: 1654506714
+      spriteID: 95fed8df030d06b47b07fe768ed58c40
+      internalID: -1743047898
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_20
+      name: TX Tileset Wall 1_27
       rect:
         serializedVersion: 2
         x: 128
-        y: 160
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -532,18 +706,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 95c349b8633420849a9212377f877b81
-      internalID: 741532497
+      spriteID: 901850522ef19a2448d4682c9cfcd690
+      internalID: -413232598
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_21
+      name: TX Tileset Wall 1_28
       rect:
         serializedVersion: 2
-        x: 160
-        y: 160
+        x: 256
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -553,18 +727,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 785f99f5552dc29428dceb34964b5ded
-      internalID: 1787096269
+      spriteID: 3462148e4c0ca0c4a852d546163883a2
+      internalID: 176010376
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_22
+      name: TX Tileset Wall 1_29
       rect:
         serializedVersion: 2
-        x: 192
-        y: 160
+        x: 288
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -574,18 +748,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 15ed512b65aee4c49aeef0bcd780c1de
-      internalID: 751551315
+      spriteID: 5e0fdc78f1caf73459407dc976ec8140
+      internalID: 1485049584
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_23
+      name: TX Tileset Wall 1_30
       rect:
         serializedVersion: 2
-        x: 224
-        y: 160
+        x: 320
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -595,18 +769,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4417539cba7389646814c8748a3e7561
-      internalID: 1642130809
+      spriteID: bbecfe0dde6070a47937181e5c3b3369
+      internalID: -319102180
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_24
+      name: TX Tileset Wall 1_31
       rect:
         serializedVersion: 2
-        x: 0
-        y: 128
+        x: 384
+        y: 384
         width: 32
         height: 32
       alignment: 0
@@ -616,18 +790,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 9a813f9084c29784287b11b54fe4e3db
-      internalID: -1749924853
+      spriteID: 7c3cae929ba970b45b2e4780f6f9752b
+      internalID: 275956012
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_25
+      name: TX Tileset Wall 1_32
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 384
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fff9e53c44d70749b833309d2dba140
+      internalID: 1415888372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_33
       rect:
         serializedVersion: 2
         x: 32
-        y: 128
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -637,18 +832,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 1bc02da7ab687d540ac6b5da122c7b29
-      internalID: 966371678
+      spriteID: 7f1898e4dbdec3f45824bab116d6d9ce
+      internalID: 152686494
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_26
+      name: TX Tileset Wall 1_34
       rect:
         serializedVersion: 2
         x: 64
-        y: 128
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -658,18 +853,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b5695eb87601d9c49987ead8e37766ed
-      internalID: 1369236019
+      spriteID: 1a9a4cf4374623745b63ef32dc8dcb85
+      internalID: 1787972634
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_27
+      name: TX Tileset Wall 1_35
       rect:
         serializedVersion: 2
         x: 96
-        y: 128
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -679,18 +874,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: d0ef5a3e653fd704abbfb73617a12910
-      internalID: -1261252284
+      spriteID: 201f97a83f66ba847bd9b12bc2723148
+      internalID: -744814762
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_28
+      name: TX Tileset Wall 1_36
       rect:
         serializedVersion: 2
         x: 128
-        y: 128
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -700,39 +895,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 11b17af9313bcac47878e0b7e62a10e1
-      internalID: -1795724717
+      spriteID: f10c3c335632a6947bb59c2cce9e3ec2
+      internalID: 543770329
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_29
-      rect:
-        serializedVersion: 2
-        x: 192
-        y: 128
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c652c0bd4b8523846ba0eb700fc2e308
-      internalID: 266862070
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Tileset Stone Ground_30
+      name: TX Tileset Wall 1_37
       rect:
         serializedVersion: 2
         x: 160
-        y: 96
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -742,18 +916,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4084d9ecb267bf41a95b6b6c0379b6c
-      internalID: -762027583
+      spriteID: 6f8a630bfbdf80f43b2944d578a9d6c2
+      internalID: 1722399841
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_31
+      name: TX Tileset Wall 1_38
       rect:
         serializedVersion: 2
         x: 192
-        y: 96
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -763,18 +937,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: f8bf65d2c06956543880bc61c8dbe203
-      internalID: -982079476
+      spriteID: 841ce105b82f57e4680bc7e020193519
+      internalID: 855869007
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_32
+      name: TX Tileset Wall 1_39
       rect:
         serializedVersion: 2
         x: 224
-        y: 96
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -784,18 +958,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b0a20c42a8e1deb438c0eb5d0c3efefa
-      internalID: 1716676634
+      spriteID: 8380dc8b9c210d54eb5de108f107ac91
+      internalID: 1857910552
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_33
+      name: TX Tileset Wall 1_40
       rect:
         serializedVersion: 2
-        x: 0
-        y: 64
+        x: 256
+        y: 352
         width: 32
         height: 32
       alignment: 0
@@ -805,18 +979,60 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b31e7912f45616945bdb5040044089f1
-      internalID: 260899777
+      spriteID: df4eb6b693a73804a9c9ea75337abe4e
+      internalID: 1992827905
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_34
+      name: TX Tileset Wall 1_41
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6999d389b6afe15419d79de2e1749319
+      internalID: -1601456898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_42
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c089319ac89021249bd2486fd606183c
+      internalID: 1183886520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_43
       rect:
         serializedVersion: 2
         x: 32
-        y: 64
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -826,18 +1042,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: a714c2c6a0c1ad342aadfdf5b067b8af
-      internalID: 1709925689
+      spriteID: e8ffe068375fc1f499b557cf6acab72c
+      internalID: -826534626
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_35
+      name: TX Tileset Wall 1_44
       rect:
         serializedVersion: 2
         x: 64
-        y: 64
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -847,18 +1063,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: dc6defc921f3bd94899c7a7a01a22418
-      internalID: 369916139
+      spriteID: 81eaa5b0e73758e4d8246dbb1313bdd2
+      internalID: -400419946
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_36
+      name: TX Tileset Wall 1_45
       rect:
         serializedVersion: 2
-        x: 192
-        y: 64
+        x: 96
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -868,60 +1084,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 2b7b5e4c228fdc54985a79a33ef97725
-      internalID: 572304366
+      spriteID: e16cfe779c09d6b4e8fe4e27d81b7bb2
+      internalID: -875485020
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_37
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: c8ec64263a02a384da48402306619849
-      internalID: 157019750
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Tileset Stone Ground_38
-      rect:
-        serializedVersion: 2
-        x: 64
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 3f95d1d7eafb9894b87dee2fdedf7c50
-      internalID: 2054773947
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Tileset Stone Ground_39
+      name: TX Tileset Wall 1_46
       rect:
         serializedVersion: 2
         x: 128
-        y: 32
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -931,39 +1105,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c00ea7af1db247144a2d10a5d5053bf2
-      internalID: 1079395252
+      spriteID: 405ecf21cf2f7af4595c02aa7840bac5
+      internalID: -462062690
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_40
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 6770b8a8e7e0dca4c82d96187ac56f9a
-      internalID: -493814469
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Tileset Stone Ground_41
+      name: TX Tileset Wall 1_47
       rect:
         serializedVersion: 2
         x: 192
-        y: 32
+        y: 288
         width: 32
         height: 32
       alignment: 0
@@ -973,60 +1126,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: b50c739aa6c00394c82556f2af4ba05f
-      internalID: 1927392419
+      spriteID: 64ce452b62bdf9044a7fb566a8c7745d
+      internalID: -685982538
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_42
-      rect:
-        serializedVersion: 2
-        x: 224
-        y: 32
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 49f3fdf91b8122741be3af2dbdce301c
-      internalID: 503197275
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Tileset Stone Ground_43
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 002d846a075adc143b2441f833cffadd
-      internalID: -1854606700
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Tileset Stone Ground_44
+      name: TX Tileset Wall 1_48
       rect:
         serializedVersion: 2
         x: 32
-        y: 0
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -1036,18 +1147,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3fb9297adbba0ac4b9fbe0e5e36c9ce0
-      internalID: -34553061
+      spriteID: d2ea93001ca353e4aa5f6d688b911074
+      internalID: 1189712226
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_45
+      name: TX Tileset Wall 1_49
       rect:
         serializedVersion: 2
         x: 64
-        y: 0
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -1057,18 +1168,39 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: c4cab05785745ce449065dd878605065
-      internalID: 1549784359
+      spriteID: 258f57f0515f3454593e939b638da25f
+      internalID: -1174680872
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_46
+      name: TX Tileset Wall 1_50
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b45cd57cf92051f4db6708f75683cd33
+      internalID: 820968620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_51
       rect:
         serializedVersion: 2
         x: 128
-        y: 0
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -1078,39 +1210,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 0659600bf200c164b93cce1df665c8e4
-      internalID: -117207337
+      spriteID: ff2d4f8b2743ff348a35df6ca07d5a87
+      internalID: 1510679915
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_47
-      rect:
-        serializedVersion: 2
-        x: 160
-        y: 0
-        width: 32
-        height: 32
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 2208a4d776460dd43ad2adc570d38825
-      internalID: 187681365
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: TX Tileset Stone Ground_48
+      name: TX Tileset Wall 1_52
       rect:
         serializedVersion: 2
         x: 192
-        y: 0
+        y: 256
         width: 32
         height: 32
       alignment: 0
@@ -1120,18 +1231,18 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 5ff4ff3e1a1c3de498ab671c6f35aee4
-      internalID: 1685761459
+      spriteID: 2f4879db14b1b6f44b7400f21bcfae19
+      internalID: 1689441102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: TX Tileset Stone Ground_49
+      name: TX Tileset Wall 1_53
       rect:
         serializedVersion: 2
-        x: 224
-        y: 0
+        x: 32
+        y: 192
         width: 32
         height: 32
       alignment: 0
@@ -1141,8 +1252,155 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 3b3d55b6957ceb342a2e25b4a0c9cd73
-      internalID: -1097983794
+      spriteID: 17de364012dc85148b744b4ffbf74f7f
+      internalID: -695658373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_54
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e38dc8b0afeb1d41821708c0693cdcb
+      internalID: -460985045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_55
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a152304de0146a8459a1a8190e6dd305
+      internalID: -1774402939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_56
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9bdabac719e33459ba3c380295f697
+      internalID: -1808239325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_57
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9554d54f428494649a2b29be13484b83
+      internalID: 774590597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_58
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00e85090972c71b4ebb6e5b8eb9597f4
+      internalID: 1937921121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_59
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ac4edda12b80044bbd49ddd3b61b811
+      internalID: -355486708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: TX Tileset Wall 1_60
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857e0787b1e5a8243a5f963f5a19f0e2
+      internalID: -1143676047
       vertices: []
       indices: 
       edges: []
@@ -1150,7 +1408,7 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 97ce26fdfcfb77248a463c2b1f477e1c
+    spriteID: 28bf53f8c9d0f524b8b64f3ab8d4f115
     internalID: 0
     vertices: []
     indices: 
@@ -1158,56 +1416,67 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      TX Tileset Stone Ground_0: -608112088230385668
-      TX Tileset Stone Ground_1: 1636278136
-      TX Tileset Stone Ground_10: 441328984
-      TX Tileset Stone Ground_11: 2099487960
-      TX Tileset Stone Ground_12: 1045405548
-      TX Tileset Stone Ground_13: 802995452
-      TX Tileset Stone Ground_14: -302992079
-      TX Tileset Stone Ground_15: -80906868
-      TX Tileset Stone Ground_16: 21641683
-      TX Tileset Stone Ground_17: -603437594
-      TX Tileset Stone Ground_18: -872517026
-      TX Tileset Stone Ground_19: 1654506714
-      TX Tileset Stone Ground_2: -343117258
-      TX Tileset Stone Ground_20: 741532497
-      TX Tileset Stone Ground_21: 1787096269
-      TX Tileset Stone Ground_22: 751551315
-      TX Tileset Stone Ground_23: 1642130809
-      TX Tileset Stone Ground_24: -1749924853
-      TX Tileset Stone Ground_25: 966371678
-      TX Tileset Stone Ground_26: 1369236019
-      TX Tileset Stone Ground_27: -1261252284
-      TX Tileset Stone Ground_28: -1795724717
-      TX Tileset Stone Ground_29: 266862070
-      TX Tileset Stone Ground_3: -86392279
-      TX Tileset Stone Ground_30: -762027583
-      TX Tileset Stone Ground_31: -982079476
-      TX Tileset Stone Ground_32: 1716676634
-      TX Tileset Stone Ground_33: 260899777
-      TX Tileset Stone Ground_34: 1709925689
-      TX Tileset Stone Ground_35: 369916139
-      TX Tileset Stone Ground_36: 572304366
-      TX Tileset Stone Ground_37: 157019750
-      TX Tileset Stone Ground_38: 2054773947
-      TX Tileset Stone Ground_39: 1079395252
-      TX Tileset Stone Ground_4: -1219966952
-      TX Tileset Stone Ground_40: -493814469
-      TX Tileset Stone Ground_41: 1927392419
-      TX Tileset Stone Ground_42: 503197275
-      TX Tileset Stone Ground_43: -1854606700
-      TX Tileset Stone Ground_44: -34553061
-      TX Tileset Stone Ground_45: 1549784359
-      TX Tileset Stone Ground_46: -117207337
-      TX Tileset Stone Ground_47: 187681365
-      TX Tileset Stone Ground_48: 1685761459
-      TX Tileset Stone Ground_49: -1097983794
-      TX Tileset Stone Ground_5: -1044738960
-      TX Tileset Stone Ground_6: 1760521597
-      TX Tileset Stone Ground_7: 54461591
-      TX Tileset Stone Ground_8: -2000626295
-      TX Tileset Stone Ground_9: 706409645
+      TX Tileset Wall 1_0: 1011076528
+      TX Tileset Wall 1_1: -1025767443
+      TX Tileset Wall 1_10: 779816708
+      TX Tileset Wall 1_11: -445480260
+      TX Tileset Wall 1_12: 340956052
+      TX Tileset Wall 1_13: -1336909722
+      TX Tileset Wall 1_14: -2141357599
+      TX Tileset Wall 1_15: -2127858444
+      TX Tileset Wall 1_16: 791628975
+      TX Tileset Wall 1_17: -206745186
+      TX Tileset Wall 1_18: 1468115086
+      TX Tileset Wall 1_19: 28092964
+      TX Tileset Wall 1_2: 687373922
+      TX Tileset Wall 1_20: 629545830
+      TX Tileset Wall 1_21: -1852543311
+      TX Tileset Wall 1_22: -1771272751
+      TX Tileset Wall 1_23: -1692391863
+      TX Tileset Wall 1_24: -1557050380
+      TX Tileset Wall 1_25: -67578514
+      TX Tileset Wall 1_26: -1743047898
+      TX Tileset Wall 1_27: -413232598
+      TX Tileset Wall 1_28: 176010376
+      TX Tileset Wall 1_29: 1485049584
+      TX Tileset Wall 1_3: -1241056233
+      TX Tileset Wall 1_30: -319102180
+      TX Tileset Wall 1_31: 275956012
+      TX Tileset Wall 1_32: 1415888372
+      TX Tileset Wall 1_33: 152686494
+      TX Tileset Wall 1_34: 1787972634
+      TX Tileset Wall 1_35: -744814762
+      TX Tileset Wall 1_36: 543770329
+      TX Tileset Wall 1_37: 1722399841
+      TX Tileset Wall 1_38: 855869007
+      TX Tileset Wall 1_39: 1857910552
+      TX Tileset Wall 1_4: 952923510
+      TX Tileset Wall 1_40: 1992827905
+      TX Tileset Wall 1_41: -1601456898
+      TX Tileset Wall 1_42: 1183886520
+      TX Tileset Wall 1_43: -826534626
+      TX Tileset Wall 1_44: -400419946
+      TX Tileset Wall 1_45: -875485020
+      TX Tileset Wall 1_46: -462062690
+      TX Tileset Wall 1_47: -685982538
+      TX Tileset Wall 1_48: 1189712226
+      TX Tileset Wall 1_49: -1174680872
+      TX Tileset Wall 1_5: -1955319718
+      TX Tileset Wall 1_50: 820968620
+      TX Tileset Wall 1_51: 1510679915
+      TX Tileset Wall 1_52: 1689441102
+      TX Tileset Wall 1_53: -695658373
+      TX Tileset Wall 1_54: -460985045
+      TX Tileset Wall 1_55: -1774402939
+      TX Tileset Wall 1_56: -1808239325
+      TX Tileset Wall 1_57: 774590597
+      TX Tileset Wall 1_58: 1937921121
+      TX Tileset Wall 1_59: -355486708
+      TX Tileset Wall 1_6: 392294902
+      TX Tileset Wall 1_60: -1143676047
+      TX Tileset Wall 1_7: -220636790
+      TX Tileset Wall 1_8: 1610772702
+      TX Tileset Wall 1_9: 1479504173
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
