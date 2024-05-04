@@ -2,25 +2,28 @@ using UnityEngine;
 
 public class SVERHUSBIZU : MonoBehaviour
 {
-    public Transform PUPS;
-    public GameObject SEfL;
-    public Transform self;
-    SortingLayer thisl;
-    void Start()
-    {
-        
-    }
+    public Renderer _renderer;
+    public int _check = 0;
 
-
-    void Update()
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (PUPS.position.y <= self.position.y )
+        _TrigTrig pers = other.GetComponent<_TrigTrig>();
+        _check++;
+        if (pers != null && _check > 0)
         {
-            SEfL.layer -= 2;
-        }
-        else
-        {
-            SEfL.layer -= 2;
+            _renderer.sortingOrder -= 5;
+            
         }
     }
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        _TrigTrig pers = other.GetComponent<_TrigTrig>();
+        _check--;
+        if (pers != null && _check == 0)
+        {
+            _renderer.sortingOrder += 5;
+
+        }
+    }
+
 }
