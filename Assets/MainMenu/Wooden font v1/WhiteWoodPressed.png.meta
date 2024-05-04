@@ -1616,7 +1616,70 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WhiteWoodPressed_0: -6837435460020003166
+      WhiteWoodPressed_1: 7572905303384127867
+      WhiteWoodPressed_10: -3052063079209972710
+      WhiteWoodPressed_11: 7906622630096564528
+      WhiteWoodPressed_12: 7851985960120754879
+      WhiteWoodPressed_13: 2716784981771494518
+      WhiteWoodPressed_14: 2797629888316443308
+      WhiteWoodPressed_15: -4589997510353538691
+      WhiteWoodPressed_16: -6714931273414438204
+      WhiteWoodPressed_17: 3838239179115964491
+      WhiteWoodPressed_18: 8619759966712735872
+      WhiteWoodPressed_19: 4613068376025708945
+      WhiteWoodPressed_2: 2372833192742705350
+      WhiteWoodPressed_20: -8494761132458659935
+      WhiteWoodPressed_21: -5887405703915243848
+      WhiteWoodPressed_22: -6236914585857831923
+      WhiteWoodPressed_23: -1607364233842744861
+      WhiteWoodPressed_24: -6097671237496038560
+      WhiteWoodPressed_25: 3641065221748850992
+      WhiteWoodPressed_26: -4555389735792831368
+      WhiteWoodPressed_27: -1999616209859281102
+      WhiteWoodPressed_28: -7466154218846587433
+      WhiteWoodPressed_29: -8510865490160373480
+      WhiteWoodPressed_3: 7294714515442667194
+      WhiteWoodPressed_30: -8410321063684519945
+      WhiteWoodPressed_31: -8724313795911257906
+      WhiteWoodPressed_32: -6172555303321101412
+      WhiteWoodPressed_33: -1523458704577348783
+      WhiteWoodPressed_34: 43075683400903191
+      WhiteWoodPressed_35: 5718500742894472936
+      WhiteWoodPressed_36: -2332982276655335360
+      WhiteWoodPressed_37: 1911624807558452756
+      WhiteWoodPressed_38: -6965906427838215634
+      WhiteWoodPressed_39: -4549348459458928877
+      WhiteWoodPressed_4: -1857717386543157298
+      WhiteWoodPressed_40: -4883799602118665411
+      WhiteWoodPressed_41: -3465355524879274890
+      WhiteWoodPressed_42: 8678545047764763284
+      WhiteWoodPressed_43: 2037662733078027924
+      WhiteWoodPressed_44: 5677491702252790156
+      WhiteWoodPressed_45: -4278754875070846413
+      WhiteWoodPressed_46: -5365292982253553309
+      WhiteWoodPressed_47: -8315791346487186256
+      WhiteWoodPressed_48: -2606693957044897385
+      WhiteWoodPressed_49: -7610578427007306585
+      WhiteWoodPressed_5: 4138389892113300362
+      WhiteWoodPressed_50: 8374466311019122692
+      WhiteWoodPressed_51: -2795742115007802251
+      WhiteWoodPressed_52: 5245891038426077076
+      WhiteWoodPressed_53: -2182884754291426811
+      WhiteWoodPressed_54: 1562495533508421153
+      WhiteWoodPressed_55: -4620905114565708096
+      WhiteWoodPressed_56: 2019597303847825956
+      WhiteWoodPressed_57: 8990249880449289424
+      WhiteWoodPressed_58: 515114366996940363
+      WhiteWoodPressed_59: -2463697803306854776
+      WhiteWoodPressed_6: -202452076805245235
+      WhiteWoodPressed_60: -2279090857214230249
+      WhiteWoodPressed_61: 74814453919663145
+      WhiteWoodPressed_62: -7902386970787675385
+      WhiteWoodPressed_7: 816103338634546250
+      WhiteWoodPressed_8: -3789290761779941707
+      WhiteWoodPressed_9: 5660539279112450357
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

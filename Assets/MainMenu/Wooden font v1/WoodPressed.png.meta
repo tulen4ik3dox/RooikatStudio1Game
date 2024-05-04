@@ -1616,7 +1616,70 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      WoodPressed_0: 1736082796088909148
+      WoodPressed_1: 7214873769499458463
+      WoodPressed_10: -4823805409667041567
+      WoodPressed_11: -1054366771085842954
+      WoodPressed_12: 1292762084343477237
+      WoodPressed_13: 1184167141103946915
+      WoodPressed_14: 3737812352475858530
+      WoodPressed_15: 2306217229770868441
+      WoodPressed_16: 227629177503826908
+      WoodPressed_17: 4338945874713831343
+      WoodPressed_18: -8080456128781695468
+      WoodPressed_19: 8358031594215585557
+      WoodPressed_2: -3151263082238012792
+      WoodPressed_20: -2757212834822294995
+      WoodPressed_21: -2597944399596780533
+      WoodPressed_22: 174403857530422475
+      WoodPressed_23: -4277996976156151316
+      WoodPressed_24: -7473920845224579846
+      WoodPressed_25: -4425160563214644336
+      WoodPressed_26: -3636975838005404434
+      WoodPressed_27: 7259378118366916480
+      WoodPressed_28: 45006160895616785
+      WoodPressed_29: -6460151388138949924
+      WoodPressed_3: 4884040182968314117
+      WoodPressed_30: -6845819139045040343
+      WoodPressed_31: 8035138111419799728
+      WoodPressed_32: 7309030077345900871
+      WoodPressed_33: -6521819375793031526
+      WoodPressed_34: -7976562331018196756
+      WoodPressed_35: -2392645170160215713
+      WoodPressed_36: 2599320299456334403
+      WoodPressed_37: 1231240998634053427
+      WoodPressed_38: -3405140977555972157
+      WoodPressed_39: -4090386639554080600
+      WoodPressed_4: -3734161582503358003
+      WoodPressed_40: -7290490715750564446
+      WoodPressed_41: -649488006848521111
+      WoodPressed_42: -893968239326312744
+      WoodPressed_43: -869379150048283712
+      WoodPressed_44: -1944226700864809408
+      WoodPressed_45: -6801149558503462587
+      WoodPressed_46: 7657036275290532256
+      WoodPressed_47: 4433806791757824583
+      WoodPressed_48: 7081892553621419392
+      WoodPressed_49: -2872419755359438230
+      WoodPressed_5: 1323637395798392401
+      WoodPressed_50: -8516214186015264891
+      WoodPressed_51: -8606789360193324538
+      WoodPressed_52: -8111338324919958580
+      WoodPressed_53: 6453460838522438822
+      WoodPressed_54: 2759610672667196774
+      WoodPressed_55: 1192788585475718951
+      WoodPressed_56: -6105317890531627084
+      WoodPressed_57: -5102264008806744282
+      WoodPressed_58: -3115909647342685942
+      WoodPressed_59: 7486256688975644833
+      WoodPressed_6: 7835593523622454640
+      WoodPressed_60: 7813877325124754685
+      WoodPressed_61: -53494764178323513
+      WoodPressed_62: -14135094784971240
+      WoodPressed_7: -1674674926941996019
+      WoodPressed_8: 6479662444771103394
+      WoodPressed_9: 53194114978785214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

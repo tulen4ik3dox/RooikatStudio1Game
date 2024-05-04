@@ -9,9 +9,9 @@ public class SVERHUSBIZU : MonoBehaviour
     {
         _TrigTrig pers = other.GetComponent<_TrigTrig>();
         _check++;
-        if (pers != null && _check > 0)
+        if (pers != null && _check == 1)
         {
-            _renderer.sortingOrder -= 5;
+            _renderer.sortingOrder -= 10;
             
         }
     }
@@ -21,7 +21,7 @@ public class SVERHUSBIZU : MonoBehaviour
         _check--;
         if (pers != null && _check == 0)
         {
-            _renderer.sortingOrder += 5;
+            _renderer.sortingOrder += 10;
 
         }
     }
