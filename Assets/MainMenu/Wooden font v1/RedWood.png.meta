@@ -1,0 +1,1687 @@
+fileFormatVersion: 2
+guid: 9fc7cec1b5095fb4bbcd3576b5ad39c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1762568526376429858
+    second: RedWood_0
+  - first:
+      213: -325844983859728803
+    second: RedWood_1
+  - first:
+      213: -7969300858106358620
+    second: RedWood_2
+  - first:
+      213: -4345532638900794226
+    second: RedWood_3
+  - first:
+      213: 6354412852691350801
+    second: RedWood_4
+  - first:
+      213: -827952204706683817
+    second: RedWood_5
+  - first:
+      213: -396185363451980896
+    second: RedWood_6
+  - first:
+      213: -1333082171890445846
+    second: RedWood_7
+  - first:
+      213: -5294991995229128416
+    second: RedWood_8
+  - first:
+      213: -4804633759825813171
+    second: RedWood_9
+  - first:
+      213: -210806914662690977
+    second: RedWood_10
+  - first:
+      213: -6700595936397183227
+    second: RedWood_11
+  - first:
+      213: -6838100054134877428
+    second: RedWood_12
+  - first:
+      213: -2856079363931790207
+    second: RedWood_13
+  - first:
+      213: -851659711061499589
+    second: RedWood_14
+  - first:
+      213: -4469062724642861289
+    second: RedWood_15
+  - first:
+      213: 6872199316809601745
+    second: RedWood_16
+  - first:
+      213: 1752807754895813702
+    second: RedWood_17
+  - first:
+      213: -951467139767110202
+    second: RedWood_18
+  - first:
+      213: -168959440548020922
+    second: RedWood_19
+  - first:
+      213: -8693704928034460744
+    second: RedWood_20
+  - first:
+      213: -7299483378409079627
+    second: RedWood_21
+  - first:
+      213: 4693699671127188668
+    second: RedWood_22
+  - first:
+      213: -908768994233124728
+    second: RedWood_23
+  - first:
+      213: 5997667319595119181
+    second: RedWood_24
+  - first:
+      213: -2937665965823333279
+    second: RedWood_25
+  - first:
+      213: 6287600924396753974
+    second: RedWood_26
+  - first:
+      213: 2410549541277120032
+    second: RedWood_27
+  - first:
+      213: 5067527784858003417
+    second: RedWood_28
+  - first:
+      213: 4828627982961507952
+    second: RedWood_29
+  - first:
+      213: -245457893732827453
+    second: RedWood_30
+  - first:
+      213: -7288302319483059381
+    second: RedWood_31
+  - first:
+      213: 502915129477641494
+    second: RedWood_32
+  - first:
+      213: 7459011181335746909
+    second: RedWood_33
+  - first:
+      213: 5840609661850818897
+    second: RedWood_34
+  - first:
+      213: 5142028355255030203
+    second: RedWood_35
+  - first:
+      213: -8589938760710548520
+    second: RedWood_36
+  - first:
+      213: 7417568396855018974
+    second: RedWood_37
+  - first:
+      213: -7553589190167237553
+    second: RedWood_38
+  - first:
+      213: -2247397794901237561
+    second: RedWood_39
+  - first:
+      213: 8093499908328140110
+    second: RedWood_40
+  - first:
+      213: 5480639484680238218
+    second: RedWood_41
+  - first:
+      213: 5708396493294981346
+    second: RedWood_42
+  - first:
+      213: -6255543729752528109
+    second: RedWood_43
+  - first:
+      213: -5937457178779301395
+    second: RedWood_44
+  - first:
+      213: -2074266152661824940
+    second: RedWood_45
+  - first:
+      213: 7449438497656208162
+    second: RedWood_46
+  - first:
+      213: -1767986252802972176
+    second: RedWood_47
+  - first:
+      213: -406426063585291569
+    second: RedWood_48
+  - first:
+      213: 8611784339991943538
+    second: RedWood_49
+  - first:
+      213: 2604977389300876088
+    second: RedWood_50
+  - first:
+      213: 7006223215839664696
+    second: RedWood_51
+  - first:
+      213: -6821143472262038167
+    second: RedWood_52
+  - first:
+      213: 965573366176521222
+    second: RedWood_53
+  - first:
+      213: -5845172150890157425
+    second: RedWood_54
+  - first:
+      213: 6368904592299797322
+    second: RedWood_55
+  - first:
+      213: 6237785624301905852
+    second: RedWood_56
+  - first:
+      213: 6281464420874306988
+    second: RedWood_57
+  - first:
+      213: 205525309668974054
+    second: RedWood_58
+  - first:
+      213: 2996027835963485935
+    second: RedWood_59
+  - first:
+      213: 5554187797072028409
+    second: RedWood_60
+  - first:
+      213: -7497555764828575842
+    second: RedWood_61
+  - first:
+      213: 2506112128878221909
+    second: RedWood_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedWood_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 129
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed69c0583491a87e0800000000000000
+      internalID: -1762568526376429858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_1
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 129
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5ea23da6bd5a7bf0800000000000000
+      internalID: -325844983859728803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_2
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 129
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4da5cb71b576190800000000000000
+      internalID: -7969300858106358620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_3
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 129
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8cc37aa61191b3c0800000000000000
+      internalID: -4345532638900794226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_4
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 129
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11538d882d86f2850800000000000000
+      internalID: 6354412852691350801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 129
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754e4734bd58284f0800000000000000
+      internalID: -827952204706683817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_6
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 129
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a35c32d287708af0800000000000000
+      internalID: -396185363451980896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_7
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 129
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae15010e3d0ff7de0800000000000000
+      internalID: -1333082171890445846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 129
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 029b4db95d86486b0800000000000000
+      internalID: -5294991995229128416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_9
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 129
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41abbd2d03825db0800000000000000
+      internalID: -4804633759825813171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_10
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 129
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f855f5a30131df0800000000000000
+      internalID: -210806914662690977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_11
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 129
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507be934f73b203a0800000000000000
+      internalID: -6700595936397183227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0316b60b303a11a0800000000000000
+      internalID: -6838100054134877428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_13
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184a58e53fa2d58d0800000000000000
+      internalID: -2856079363931790207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_14
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31eaac410c4e24f0800000000000000
+      internalID: -851659711061499589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_15
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f09ba4123baf1c0800000000000000
+      internalID: -4469062724642861289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_16
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 104
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d25e104ed4fe5f50800000000000000
+      internalID: 6872199316809601745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_17
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c6d16cd59335810800000000000000
+      internalID: 1752807754895813702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_18
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c579be6da5bbc2f0800000000000000
+      internalID: -951467139767110202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_19
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64dbfa4b84cb7adf0800000000000000
+      internalID: -168959440548020922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_20
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bb617edd61c95780800000000000000
+      internalID: -8693704928034460744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_21
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bcfe0aaa8603ba90800000000000000
+      internalID: -7299483378409079627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_22
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 104
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb467eb8bfe532140800000000000000
+      internalID: 4693699671127188668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_23
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 104
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88878d32a676363f0800000000000000
+      internalID: -908768994233124728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 79
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42bf6176aefb3350800000000000000
+      internalID: 5997667319595119181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_25
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 79
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c68565e505b37d0800000000000000
+      internalID: -2937665965823333279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_26
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 79
+        width: 9
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63416144abb024750800000000000000
+      internalID: 6287600924396753974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_27
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 79
+        width: 12
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026bd41490ef37120800000000000000
+      internalID: 2410549541277120032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 79
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d722e1eba9735640800000000000000
+      internalID: 5067527784858003417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_29
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 79
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e7eec319bb20340800000000000000
+      internalID: 4828627982961507952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_30
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 79
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce3dbc9855f79cf0800000000000000
+      internalID: -245457893732827453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_31
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 79
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b438e8fc7afbada90800000000000000
+      internalID: -7288302319483059381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_32
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 79
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6153fac45a6baf600800000000000000
+      internalID: 502915129477641494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_33
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 79
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d591f2f562bb38760800000000000000
+      internalID: 7459011181335746909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 79
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1591556ea830e0150800000000000000
+      internalID: 5840609661850818897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_35
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 79
+        width: 11
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb156f3ab872c5740800000000000000
+      internalID: 5142028355255030203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_36
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 54
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d31d7565386ac880800000000000000
+      internalID: -8589938760710548520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_37
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 54
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed505bf282f70f660800000000000000
+      internalID: 7417568396855018974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_38
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 54
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ce9d4f6a24c2790800000000000000
+      internalID: -7553589190167237553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_39
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 54
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c06aeddc93afc0e0800000000000000
+      internalID: -2247397794901237561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_40
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4d2e811943e15070800000000000000
+      internalID: 8093499908328140110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_41
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 54
+        width: 13
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84785ad2942f0c40800000000000000
+      internalID: 5480639484680238218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_42
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 49
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e0dee3cd5c483f40800000000000000
+      internalID: 5708396493294981346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_43
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 54
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bad2ffe18df29a0800000000000000
+      internalID: -6255543729752528109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_44
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 54
+        width: 6
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de944c5672ae99da0800000000000000
+      internalID: -5937457178779301395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_45
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 49
+        width: 10
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ac9f09ce9b633e0800000000000000
+      internalID: -2074266152661824940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_46
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 54
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22bfae448d8b16760800000000000000
+      internalID: 7449438497656208162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_47
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 54
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5a7e9ced9d677e0800000000000000
+      internalID: -1767986252802972176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 29
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2d98406a51c5af0800000000000000
+      internalID: -406426063585291569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 29
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 279dd73ea34338770800000000000000
+      internalID: 8611784339991943538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_50
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 29
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8330431422db62420800000000000000
+      internalID: 2604977389300876088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_51
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 24
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83ad73de4ea1b3160800000000000000
+      internalID: 7006223215839664696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_52
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 24
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96db8d5e62e6651a0800000000000000
+      internalID: -6821143472262038167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_53
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 29
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60c97875cd7666d00800000000000000
+      internalID: 965573366176521222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_54
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 29
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8aaf27d5e6c1eea0800000000000000
+      internalID: -5845172150890157425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_55
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 29
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b22689bf4e26850800000000000000
+      internalID: 6368904592299797322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_56
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 29
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7ad81e9f0119650800000000000000
+      internalID: 6237785624301905852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_57
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 29
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca5c7733c9e3c2750800000000000000
+      internalID: 6281464420874306988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_58
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 29
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eddb232e2c2ad200800000000000000
+      internalID: 205525309668974054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_59
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 29
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee29c37177049920800000000000000
+      internalID: 2996027835963485935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f2a944cf50741d40800000000000000
+      internalID: 5554187797072028409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_61
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e97e5b171c453f790800000000000000
+      internalID: -7497555764828575842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedWood_62
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 4
+        width: 7
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a951904bf77c220800000000000000
+      internalID: 2506112128878221909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      RedWood_0: -1762568526376429858
+      RedWood_1: -325844983859728803
+      RedWood_10: -210806914662690977
+      RedWood_11: -6700595936397183227
+      RedWood_12: -6838100054134877428
+      RedWood_13: -2856079363931790207
+      RedWood_14: -851659711061499589
+      RedWood_15: -4469062724642861289
+      RedWood_16: 6872199316809601745
+      RedWood_17: 1752807754895813702
+      RedWood_18: -951467139767110202
+      RedWood_19: -168959440548020922
+      RedWood_2: -7969300858106358620
+      RedWood_20: -8693704928034460744
+      RedWood_21: -7299483378409079627
+      RedWood_22: 4693699671127188668
+      RedWood_23: -908768994233124728
+      RedWood_24: 5997667319595119181
+      RedWood_25: -2937665965823333279
+      RedWood_26: 6287600924396753974
+      RedWood_27: 2410549541277120032
+      RedWood_28: 5067527784858003417
+      RedWood_29: 4828627982961507952
+      RedWood_3: -4345532638900794226
+      RedWood_30: -245457893732827453
+      RedWood_31: -7288302319483059381
+      RedWood_32: 502915129477641494
+      RedWood_33: 7459011181335746909
+      RedWood_34: 5840609661850818897
+      RedWood_35: 5142028355255030203
+      RedWood_36: -8589938760710548520
+      RedWood_37: 7417568396855018974
+      RedWood_38: -7553589190167237553
+      RedWood_39: -2247397794901237561
+      RedWood_4: 6354412852691350801
+      RedWood_40: 8093499908328140110
+      RedWood_41: 5480639484680238218
+      RedWood_42: 5708396493294981346
+      RedWood_43: -6255543729752528109
+      RedWood_44: -5937457178779301395
+      RedWood_45: -2074266152661824940
+      RedWood_46: 7449438497656208162
+      RedWood_47: -1767986252802972176
+      RedWood_48: -406426063585291569
+      RedWood_49: 8611784339991943538
+      RedWood_5: -827952204706683817
+      RedWood_50: 2604977389300876088
+      RedWood_51: 7006223215839664696
+      RedWood_52: -6821143472262038167
+      RedWood_53: 965573366176521222
+      RedWood_54: -5845172150890157425
+      RedWood_55: 6368904592299797322
+      RedWood_56: 6237785624301905852
+      RedWood_57: 6281464420874306988
+      RedWood_58: 205525309668974054
+      RedWood_59: 2996027835963485935
+      RedWood_6: -396185363451980896
+      RedWood_60: 5554187797072028409
+      RedWood_61: -7497555764828575842
+      RedWood_62: 2506112128878221909
+      RedWood_7: -1333082171890445846
+      RedWood_8: -5294991995229128416
+      RedWood_9: -4804633759825813171
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

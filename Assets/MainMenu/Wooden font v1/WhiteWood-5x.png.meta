@@ -1,0 +1,1624 @@
+fileFormatVersion: 2
+guid: a748aaaa8b338974f95c650956d6b9ed
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 744093809314694682
+    second: WhiteWood-5x_0
+  - first:
+      213: 3389942964254308299
+    second: WhiteWood-5x_1
+  - first:
+      213: -1471363227879888396
+    second: WhiteWood-5x_2
+  - first:
+      213: 2539340893556497803
+    second: WhiteWood-5x_3
+  - first:
+      213: -4288649099135831264
+    second: WhiteWood-5x_4
+  - first:
+      213: 5464125223878546370
+    second: WhiteWood-5x_5
+  - first:
+      213: 7402525240492251662
+    second: WhiteWood-5x_6
+  - first:
+      213: -5414763562854934869
+    second: WhiteWood-5x_7
+  - first:
+      213: -8179207753024942972
+    second: WhiteWood-5x_8
+  - first:
+      213: -3404076457716470015
+    second: WhiteWood-5x_9
+  - first:
+      213: -3684745780857678234
+    second: WhiteWood-5x_10
+  - first:
+      213: -5909269489245117731
+    second: WhiteWood-5x_11
+  - first:
+      213: 8060807325639706659
+    second: WhiteWood-5x_12
+  - first:
+      213: -6923213376246697771
+    second: WhiteWood-5x_13
+  - first:
+      213: -3766176018253182989
+    second: WhiteWood-5x_14
+  - first:
+      213: -8494832045799326087
+    second: WhiteWood-5x_15
+  - first:
+      213: -4947614845870671709
+    second: WhiteWood-5x_16
+  - first:
+      213: -7766380464719307213
+    second: WhiteWood-5x_17
+  - first:
+      213: 6517999422129094223
+    second: WhiteWood-5x_18
+  - first:
+      213: -7356730949210233414
+    second: WhiteWood-5x_19
+  - first:
+      213: 52054341442546575
+    second: WhiteWood-5x_20
+  - first:
+      213: 3021031545236073926
+    second: WhiteWood-5x_21
+  - first:
+      213: 4103026099626214327
+    second: WhiteWood-5x_22
+  - first:
+      213: -775120378611152306
+    second: WhiteWood-5x_23
+  - first:
+      213: 4165967096244546157
+    second: WhiteWood-5x_24
+  - first:
+      213: -4506412762831279393
+    second: WhiteWood-5x_25
+  - first:
+      213: 5124853273370283130
+    second: WhiteWood-5x_26
+  - first:
+      213: 1153290988320528443
+    second: WhiteWood-5x_27
+  - first:
+      213: -337360547034522436
+    second: WhiteWood-5x_28
+  - first:
+      213: 73249695515262401
+    second: WhiteWood-5x_29
+  - first:
+      213: -7013511227147079141
+    second: WhiteWood-5x_30
+  - first:
+      213: -4514496850794789981
+    second: WhiteWood-5x_31
+  - first:
+      213: 8414995766739997320
+    second: WhiteWood-5x_32
+  - first:
+      213: -3663219995081762088
+    second: WhiteWood-5x_33
+  - first:
+      213: -1684317031123809470
+    second: WhiteWood-5x_34
+  - first:
+      213: 4215256744169512447
+    second: WhiteWood-5x_35
+  - first:
+      213: 3126799610953411606
+    second: WhiteWood-5x_36
+  - first:
+      213: 1180562037315356563
+    second: WhiteWood-5x_37
+  - first:
+      213: 2388864094424402893
+    second: WhiteWood-5x_38
+  - first:
+      213: 806347270496862919
+    second: WhiteWood-5x_39
+  - first:
+      213: -7365381944224317923
+    second: WhiteWood-5x_40
+  - first:
+      213: -6572779861949783756
+    second: WhiteWood-5x_41
+  - first:
+      213: 4964071624843276769
+    second: WhiteWood-5x_42
+  - first:
+      213: 1339977303582433866
+    second: WhiteWood-5x_43
+  - first:
+      213: 6823668586971787266
+    second: WhiteWood-5x_44
+  - first:
+      213: -1562848070056059774
+    second: WhiteWood-5x_45
+  - first:
+      213: -4510430589855420316
+    second: WhiteWood-5x_46
+  - first:
+      213: -5976402426708319656
+    second: WhiteWood-5x_47
+  - first:
+      213: 5739773795412611761
+    second: WhiteWood-5x_48
+  - first:
+      213: -8446750003755132393
+    second: WhiteWood-5x_49
+  - first:
+      213: 1834872528711889218
+    second: WhiteWood-5x_50
+  - first:
+      213: -3641873556329001015
+    second: WhiteWood-5x_51
+  - first:
+      213: 2246670207982510259
+    second: WhiteWood-5x_52
+  - first:
+      213: -1832579276520230800
+    second: WhiteWood-5x_53
+  - first:
+      213: 967397683747164684
+    second: WhiteWood-5x_54
+  - first:
+      213: 8633826767627550047
+    second: WhiteWood-5x_55
+  - first:
+      213: -1553509657284155323
+    second: WhiteWood-5x_56
+  - first:
+      213: 4292184676080808962
+    second: WhiteWood-5x_57
+  - first:
+      213: -9064922572613866774
+    second: WhiteWood-5x_58
+  - first:
+      213: -437782687770774593
+    second: WhiteWood-5x_59
+  - first:
+      213: 1957564204250767370
+    second: WhiteWood-5x_60
+  - first:
+      213: -3297465832936182175
+    second: WhiteWood-5x_61
+  - first:
+      213: -613711617465053033
+    second: WhiteWood-5x_62
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: WhiteWood-5x_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 649
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1605cf806d835a00800000000000000
+      internalID: 744093809314694682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_1
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 649
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc776315a2f7b0f20800000000000000
+      internalID: 3389942964254308299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 649
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9a5aa90faa49be0800000000000000
+      internalID: -1471363227879888396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_3
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 649
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dde04b61d8d3320800000000000000
+      internalID: 2539340893556497803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 649
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 023b5b7dd58ab74c0800000000000000
+      internalID: -4288649099135831264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_5
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 649
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c35881e0f874db40800000000000000
+      internalID: 5464125223878546370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_6
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 649
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a57686c7d0bb660800000000000000
+      internalID: 7402525240492251662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_7
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 649
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba69d4d6a35ead4b0800000000000000
+      internalID: -5414763562854934869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_8
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 649
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48cc3d842ed9d7e80800000000000000
+      internalID: -8179207753024942972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_9
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 649
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f2a8d4f7a42c0d0800000000000000
+      internalID: -3404076457716470015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_10
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 649
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 666db542c372ddcc0800000000000000
+      internalID: -3684745780857678234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_11
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 649
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ad7b45be0efda0800000000000000
+      internalID: -5909269489245117731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3280f9ffd8dbddf60800000000000000
+      internalID: 8060807325639706659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_13
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d035947d1ecbef90800000000000000
+      internalID: -6923213376246697771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_14
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f78c6e8ddadbbbc0800000000000000
+      internalID: -3766176018253182989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_15
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eb68b034b4c1a80800000000000000
+      internalID: -8494832045799326087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_16
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 524
+        width: 67
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8fd62e28a865bb0800000000000000
+      internalID: -4947614845870671709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_17
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e5fd98d16483490800000000000000
+      internalID: -7766380464719307213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_18
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4eb43ac0f5947a50800000000000000
+      internalID: 6517999422129094223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_19
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab5a338ed24a7e990800000000000000
+      internalID: -7356730949210233414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_20
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b23b2d52fe8b000800000000000000
+      internalID: 52054341442546575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_21
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdab0d2f2cdce920800000000000000
+      internalID: 3021031545236073926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_22
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 524
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b38064bf70e0f830800000000000000
+      internalID: 4103026099626214327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_23
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 524
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a47b65f183e35f0800000000000000
+      internalID: -775120378611152306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_24
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 399
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a2f95700d70d930800000000000000
+      internalID: 4165967096244546157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_25
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 399
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdaa72cd7710671c0800000000000000
+      internalID: -4506412762831279393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 399
+        width: 37
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7ccb3546e22f1740800000000000000
+      internalID: 5124853273370283130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_27
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 399
+        width: 52
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3811812b00510010800000000000000
+      internalID: 1153290988320528443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_28
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 399
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc96c0be54715bf0800000000000000
+      internalID: -337360547034522436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_29
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 399
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cdb711c53c340100800000000000000
+      internalID: 73249695515262401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_30
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 399
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b123fa5b2b00bae90800000000000000
+      internalID: -7013511227147079141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_31
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 399
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a3c1c478094951c0800000000000000
+      internalID: -4514496850794789981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_32
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 399
+        width: 57
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88214f6b01218c470800000000000000
+      internalID: 8414995766739997320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_33
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 399
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da1b03b2d0a92dc0800000000000000
+      internalID: -3663219995081762088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_34
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 399
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24b89b6859a10a8e0800000000000000
+      internalID: -1684317031123809470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_35
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 399
+        width: 47
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd1b49eca99f7a30800000000000000
+      internalID: 4215256744169512447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_36
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 274
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61c25befdaf946b20800000000000000
+      internalID: 3126799610953411606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_37
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 274
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3974e750be2326010800000000000000
+      internalID: 1180562037315356563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_38
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 274
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcb0ad4bc33f62120800000000000000
+      internalID: 2388864094424402893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_39
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 274
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c2429ff198b03b00800000000000000
+      internalID: 806347270496862919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_40
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 274
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1efe6b2528e8c990800000000000000
+      internalID: -7365381944224317923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_41
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 274
+        width: 57
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43164a52a8bc8c4a0800000000000000
+      internalID: -6572779861949783756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_42
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 249
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e1316e87dce3e440800000000000000
+      internalID: 4964071624843276769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_43
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 274
+        width: 62
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42ed13124e889210800000000000000
+      internalID: 1339977303582433866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_44
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 274
+        width: 22
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 200f17f2d6a82be50800000000000000
+      internalID: 6823668586971787266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_45
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 249
+        width: 42
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28c576ae5f5af4ae0800000000000000
+      internalID: -1562848070056059774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_46
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 274
+        width: 52
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460bc9b964bb761c0800000000000000
+      internalID: -4510430589855420316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_47
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 274
+        width: 22
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 852a44148ad8f0da0800000000000000
+      internalID: -5976402426708319656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_48
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 149
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b21aa63bd5c7af40800000000000000
+      internalID: 5739773795412611761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_49
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 149
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71a55a7df9d17ca80800000000000000
+      internalID: -8446750003755132393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_50
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 149
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 241bef1e7d6c67910800000000000000
+      internalID: 1834872528711889218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_51
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 124
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cf0f16cb47757dc0800000000000000
+      internalID: -3641873556329001015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_52
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 124
+        width: 62
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0204a96a6cd2f10800000000000000
+      internalID: 2246670207982510259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_53
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 149
+        width: 47
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070f4408bde5196e0800000000000000
+      internalID: -1832579276520230800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_54
+      rect:
+        serializedVersion: 2
+        x: 454
+        y: 149
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0219406113ec6d00800000000000000
+      internalID: 967397683747164684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_55
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 149
+        width: 42
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5df2b083b381d770800000000000000
+      internalID: 8633826767627550047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_56
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 149
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54860729233d07ae0800000000000000
+      internalID: -1553509657284155323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_57
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 149
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204fb20d837e09b30800000000000000
+      internalID: 4292184676080808962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_58
+      rect:
+        serializedVersion: 2
+        x: 754
+        y: 149
+        width: 62
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aea2eeeb2fce23280800000000000000
+      internalID: -9064922572613866774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_59
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 149
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb37b9607feace9f0800000000000000
+      internalID: -437782687770774593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_60
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 0
+        width: 62
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00236ba54aaa2b10800000000000000
+      internalID: 1957564204250767370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_61
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 24
+        width: 57
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ee9d0bb4c0d32d0800000000000000
+      internalID: -3297465832936182175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: WhiteWood-5x_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 24
+        width: 27
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79017761988ab77f0800000000000000
+      internalID: -613711617465053033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
