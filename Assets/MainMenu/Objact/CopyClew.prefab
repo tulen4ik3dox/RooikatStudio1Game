@@ -13,9 +13,10 @@ GameObject:
   - component: {fileID: 4312777321311789450}
   - component: {fileID: 4020000452451113340}
   - component: {fileID: 4500135217188748630}
-  - component: {fileID: 8072949426623590652}
+  - component: {fileID: 6007018349633193890}
+  - component: {fileID: 7567109610390926283}
   m_Layer: 7
-  m_Name: Clew
+  m_Name: CopyClew
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -28,7 +29,7 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3218856265210183890}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
@@ -61,7 +62,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 1, b: 1, a: 1}
+  m_Color: {r: 0.5471698, g: 0.5471698, b: 0.5471698, a: 1}
   m_RaycastTarget: 1
   m_RaycastPadding: {x: 0, y: 0, z: 0, w: 0}
   m_Maskable: 1
@@ -88,7 +89,7 @@ Animator:
   m_GameObject: {fileID: 3218856265210183890}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 9100000, guid: e44910f8bb94436408e9ced711086d47, type: 2}
+  m_Controller: {fileID: 9100000, guid: f70342622f2d4ad4086ab934893c07d2, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 1
@@ -114,7 +115,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _Clew: {fileID: 4020000452451113340}
   positionMouse0: {x: 0, y: 0}
---- !u!50 &8072949426623590652
+--- !u!50 &6007018349633193890
 Rigidbody2D:
   serializedVersion: 4
   m_ObjectHideFlags: 0
@@ -126,10 +127,10 @@ Rigidbody2D:
   m_Simulated: 1
   m_UseFullKinematicContacts: 0
   m_UseAutoMass: 0
-  m_Mass: 100
+  m_Mass: 1
   m_LinearDrag: 0
   m_AngularDrag: 0.05
-  m_GravityScale: 0
+  m_GravityScale: 1
   m_Material: {fileID: 0}
   m_IncludeLayers:
     serializedVersion: 2
@@ -141,3 +142,17 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!114 &7567109610390926283
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3218856265210183890}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 216d27325fe37f743b2bd26bd95f704b, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _script: {fileID: 0}
+  force: 1

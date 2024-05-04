@@ -16,6 +16,7 @@ public class clew : MonoBehaviour
         _lauchCopy = true;
         Cursor.visible = true;
         _ClewImage.gameObject.SetActive(false);
+        _lauchIndex = 1;
     }
 
     public void OnMouseExit()
