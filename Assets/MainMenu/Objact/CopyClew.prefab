@@ -13,8 +13,7 @@ GameObject:
   - component: {fileID: 4312777321311789450}
   - component: {fileID: 4020000452451113340}
   - component: {fileID: 4500135217188748630}
-  - component: {fileID: 6007018349633193890}
-  - component: {fileID: 7567109610390926283}
+  - component: {fileID: 4676344159590383164}
   m_Layer: 7
   m_Name: CopyClew
   m_TagString: Untagged
@@ -30,7 +29,7 @@ RectTransform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 3218856265210183890}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalPosition: {x: 0, y: 0, z: 876}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -38,7 +37,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 1022, y: 456}
+  m_AnchoredPosition: {x: 37.035027, y: 0}
   m_SizeDelta: {x: 100, y: 100}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!222 &5177755833660976902
@@ -115,34 +114,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _Clew: {fileID: 4020000452451113340}
   positionMouse0: {x: 0, y: 0}
---- !u!50 &6007018349633193890
-Rigidbody2D:
-  serializedVersion: 4
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 3218856265210183890}
-  m_BodyType: 0
-  m_Simulated: 1
-  m_UseFullKinematicContacts: 0
-  m_UseAutoMass: 0
-  m_Mass: 1
-  m_LinearDrag: 0
-  m_AngularDrag: 0.05
-  m_GravityScale: 1
-  m_Material: {fileID: 0}
-  m_IncludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_ExcludeLayers:
-    serializedVersion: 2
-    m_Bits: 0
-  m_Interpolate: 0
-  m_SleepingMode: 1
-  m_CollisionDetection: 0
-  m_Constraints: 0
---- !u!114 &7567109610390926283
+--- !u!114 &4676344159590383164
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -151,8 +123,8 @@ MonoBehaviour:
   m_GameObject: {fileID: 3218856265210183890}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 216d27325fe37f743b2bd26bd95f704b, type: 3}
+  m_Script: {fileID: 11500000, guid: 532b304b30a96744896fd4e34c452ab0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _script: {fileID: 0}
-  force: 1
+  _force: 1000
+  _clewTo: 0
