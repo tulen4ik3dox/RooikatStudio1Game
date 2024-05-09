@@ -19,6 +19,8 @@ public class pupshodit : MonoBehaviour
     public bool popa;
     public float runspeed = 10f;
     private Vector2 napravlenie;
+    public AudioSource Run, Went, breath;
+    private bool BEJIT = false, HODI = false;
     void Start()
     {
         rb2 = GetComponent<Rigidbody2D>();
@@ -79,11 +81,45 @@ public class pupshodit : MonoBehaviour
         if (Input.GetKey(KeyCode.LeftShift) && dontrun == false)
         {
             rb2.velocity = new Vector2(napravlenie.x, napravlenie.y).normalized * runspeed * uscorilca;
-            Debug.Log("IAM FAST");                       
+            
         }        
         else
         {
             rb2.velocity = new Vector2(napravlenie.x, napravlenie.y).normalized * runspeed;
+            
+            
+        }
+
+
+        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.D))
+        {
+            BEJIT = false; HODI = true;
+        }
+        else if ((Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.D)) && Input.GetKeyDown(KeyCode.LeftShift))
+        {
+            BEJIT = true; HODI = false;
+        }        
+        else if (!Input.GetKeyDown(KeyCode.W) && !Input.GetKeyDown(KeyCode.A) && !Input.GetKeyDown(KeyCode.S) && !Input.GetKeyDown(KeyCode.D))
+        {
+            BEJIT = false; HODI = false;
+        }
+
+
+        if (!BEJIT) 
+        {
+            Run.Stop();
+        }
+        else
+        {
+            Run.Play();
+        }
+        if (!HODI)
+        {
+            Went.Stop();
+        }
+        else
+        {
+            Went.Play();
         }
 
         if (IsStamina == true)
@@ -92,7 +128,7 @@ public class pupshodit : MonoBehaviour
             if (slider.value == 0f)
             {
                 dontrun = true;
-                
+                breath.Play();
             }            
         }
 
@@ -101,11 +137,12 @@ public class pupshodit : MonoBehaviour
             if(slider.value < 100f)
             {
                 slider.value += 0.05f;
-                if (slider.value >= 1f)
+                if (slider.value >= 99f)
                 {
                     dontrun = false;
                 }
             }            
         }
+        
     }
 }
