@@ -73,54 +73,81 @@ public class pupshodit : MonoBehaviour
         animator.SetFloat("horizontal", napravlenie.x);
         animator.SetFloat("vertical ", napravlenie.y);
         animator.SetFloat("speed", napravlenie.sqrMagnitude);
-    }
-
-    private void FixedUpdate()
-
-    {
+    
+    
         if (Input.GetKey(KeyCode.LeftShift) && dontrun == false)
         {
             rb2.velocity = new Vector2(napravlenie.x, napravlenie.y).normalized * runspeed * uscorilca;
-            
+            //BEJIT = true; HODI = false;
+
         }        
         else
         {
             rb2.velocity = new Vector2(napravlenie.x, napravlenie.y).normalized * runspeed;
+
+            //BEJIT = false; HODI = true;
+        }
+
+        if ((Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.D)) && BEJIT != true)
+            {
+            if (HODI == false)
+            {
+                HODI = true;
+                Went.Play();
+                
+            }
             
-            
-        }
-
-
-        if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.D))
-        {
-            BEJIT = false; HODI = true;
-        }
-        else if ((Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.D)) && Input.GetKeyDown(KeyCode.LeftShift))
-        {
-            BEJIT = true; HODI = false;
-        }        
-        else if (!Input.GetKeyDown(KeyCode.W) && !Input.GetKeyDown(KeyCode.A) && !Input.GetKeyDown(KeyCode.S) && !Input.GetKeyDown(KeyCode.D))
-        {
-            BEJIT = false; HODI = false;
-        }
-
-
-        if (!BEJIT) 
-        {
-            Run.Stop();
-        }
-        else
-        {
-            Run.Play();
-        }
-        if (!HODI)
-        {
+         }
+        else if (HODI != false) 
+        { 
+            HODI = false;
             Went.Stop();
         }
-        else
+        if ((Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.A) || Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.D)) && Input.GetKey(KeyCode.LeftShift))
         {
-            Went.Play();
+            if (BEJIT == false)
+            {
+                BEJIT = true;
+                Run.Play();
+
+            }
+
         }
+        else if (BEJIT != false)
+        {
+            BEJIT = false;
+            Run.Stop();
+        }
+        // if (Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.D))
+        //{
+        //    BEJIT = false; HODI = true;
+        //}
+        // else if ((Input.GetKeyDown(KeyCode.W) || Input.GetKeyDown(KeyCode.A) || Input.GetKeyDown(KeyCode.S) || Input.GetKeyDown(KeyCode.D)) && Input.GetKeyDown(KeyCode.LeftShift))
+        //{
+        //    BEJIT = true; HODI = false;
+        //}        
+        //if (!Input.GetKeyDown(KeyCode.W) && !Input.GetKeyDown(KeyCode.A) && !Input.GetKeyDown(KeyCode.S) && !Input.GetKeyDown(KeyCode.D))
+        //{
+        //    BEJIT = false; HODI = false;
+        //}
+
+
+        //if (!BEJIT) 
+        //{
+        //    Run.Stop();
+        //}
+        //else
+        //{
+        //    Run.Play();
+        //}
+        //if (!HODI)
+        //{
+        //    Went.Stop();
+        //}
+        //else
+        //{
+        //    Went.Play();
+        //}
 
         if (IsStamina == true)
         {
