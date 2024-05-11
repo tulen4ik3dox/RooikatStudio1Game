@@ -6,7 +6,7 @@ public class puzle : MonoBehaviour
 {
     public AudioSource Sone;
     private bool zvuchit;
-    public Vector2 positionStone0 ;
+    public Vector2 positionStone0;
 
     private void Start()
     {
@@ -32,6 +32,7 @@ public class puzle : MonoBehaviour
 
             
         }
+
         positionStone0 = positionStone;
     }
 }

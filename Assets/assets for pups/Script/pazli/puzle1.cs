@@ -5,25 +5,34 @@ using UnityEngine;
 public class puzle1 : MonoBehaviour
 {
     public AudioSource Sone;
-    public Vector2 positionMouse0 = new Vector2(0, 0);
+    private bool zvuchit;
+    public Vector2 positionStone0;
 
-
+    private void Start()
+    {
+        positionStone0 = new Vector2(transform.position.x, transform.position.y);
+    }
     public void Update()
     {
-        Vector2 positionMouse = new Vector2(Input.mousePosition.x, Input.mousePosition.y);
-        if (positionMouse0.x < positionMouse.x)
+        Vector2 positionStone = new Vector2(transform.position.x, transform.position.y);
+        if (positionStone0 != positionStone)
         {
-            Sone.Play();
+            if (zvuchit == false)
+            {
+                zvuchit = true;
+                Sone.Play();
+
+            }
+
         }
-        else if (positionMouse0.x > positionMouse.x)
+        else if (zvuchit != false)
         {
-            Sone.Play();
-        }
-        else if (positionMouse0.x == positionMouse.x)
-        {
+            zvuchit = false;
             Sone.Stop();
+
+
         }
 
-        positionMouse0 = positionMouse;
+        positionStone0 = positionStone;
     }
 }
