@@ -1,0 +1,574 @@
+fileFormatVersion: 2
+guid: 240863435625de948b024408decb1a0e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2991935795787475712
+    second: Decorationspre_0
+  - first:
+      213: 9086927600292730214
+    second: Decorationspre_1
+  - first:
+      213: 8799992673062269362
+    second: Decorationspre_2
+  - first:
+      213: 1919696189023288360
+    second: Decorationspre_3
+  - first:
+      213: -3709340933928242621
+    second: Decorationspre_4
+  - first:
+      213: -6732539847084478967
+    second: Decorationspre_5
+  - first:
+      213: -546907788829452763
+    second: Decorationspre_6
+  - first:
+      213: -5422401951197275897
+    second: Decorationspre_7
+  - first:
+      213: -6835354747999802937
+    second: Decorationspre_8
+  - first:
+      213: -5726136962399962591
+    second: Decorationspre_9
+  - first:
+      213: 7065080797093402866
+    second: Decorationspre_10
+  - first:
+      213: 723789443593953906
+    second: Decorationspre_11
+  - first:
+      213: 6723839848774472018
+    second: Decorationspre_12
+  - first:
+      213: -8879435074086236787
+    second: Decorationspre_13
+  - first:
+      213: -5886314157015844865
+    second: Decorationspre_14
+  - first:
+      213: -5381185405110478077
+    second: Decorationspre_15
+  - first:
+      213: -4821833604709757684
+    second: Decorationspre_16
+  - first:
+      213: 2722659138903134160
+    second: Decorationspre_17
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Decorationspre_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 107
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 005df45ee328a76d0800000000000000
+      internalID: -2991935795787475712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_1
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665142302804b1e70800000000000000
+      internalID: 9086927600292730214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_2
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 107
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b1bae736badf1a70800000000000000
+      internalID: 8799992673062269362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_3
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 86
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c776f438124aa10800000000000000
+      internalID: 1919696189023288360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_4
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3423462d216c58cc0800000000000000
+      internalID: -3709340933928242621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 86
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90eed5afda63192a0800000000000000
+      internalID: -6732539847084478967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_6
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 66
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5261de1834ef868f0800000000000000
+      internalID: -546907788829452763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_7
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 66
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 709508d8722cfb4b0800000000000000
+      internalID: -5422401951197275897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_8
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 66
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c921bb6211f321a0800000000000000
+      internalID: -6835354747999802937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 45
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a7ae465cca880b0800000000000000
+      internalID: -5726136962399962591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_10
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 45
+        width: 20
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f89f247d853c0260800000000000000
+      internalID: 7065080797093402866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_11
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 45
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27268950aaa6b0a00800000000000000
+      internalID: 723789443593953906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 24
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25191d0d7b0ef4d50800000000000000
+      internalID: 6723839848774472018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_13
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 24
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d02fa68d8e5c480800000000000000
+      internalID: -8879435074086236787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 24
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7b7b2167c9f4ea0800000000000000
+      internalID: -5886314157015844865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_15
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30b9fd182603255b0800000000000000
+      internalID: -5381185405110478077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_16
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0dcb3932e7651db0800000000000000
+      internalID: -4821833604709757684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Decorationspre_17
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 4
+        width: 19
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dfcac2cf04d8c520800000000000000
+      internalID: 2722659138903134160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Decorationspre_0: -2991935795787475712
+      Decorationspre_1: 9086927600292730214
+      Decorationspre_10: 7065080797093402866
+      Decorationspre_11: 723789443593953906
+      Decorationspre_12: 6723839848774472018
+      Decorationspre_13: -8879435074086236787
+      Decorationspre_14: -5886314157015844865
+      Decorationspre_15: -5381185405110478077
+      Decorationspre_16: -4821833604709757684
+      Decorationspre_17: 2722659138903134160
+      Decorationspre_2: 8799992673062269362
+      Decorationspre_3: 1919696189023288360
+      Decorationspre_4: -3709340933928242621
+      Decorationspre_5: -6732539847084478967
+      Decorationspre_6: -546907788829452763
+      Decorationspre_7: -5422401951197275897
+      Decorationspre_8: -6835354747999802937
+      Decorationspre_9: -5726136962399962591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
