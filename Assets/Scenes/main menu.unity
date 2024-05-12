@@ -2519,27 +2519,13 @@ GameObject:
   m_Component:
   - component: {fileID: 1013713162}
   - component: {fileID: 1013713161}
-  - component: {fileID: 1013713160}
   m_Layer: 0
   m_Name: sounds
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!114 &1013713160
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1013713159}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 4b4f9bce07806bf44aa4ff84387e0cbe, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  musicsourse: {fileID: 1013713161}
+  m_IsActive: 1
 --- !u!82 &1013713161
 AudioSource:
   m_ObjectHideFlags: 0
@@ -2549,7 +2535,7 @@ AudioSource:
   m_GameObject: {fileID: 1013713159}
   m_Enabled: 1
   serializedVersion: 4
-  OutputAudioMixerGroup: {fileID: 0}
+  OutputAudioMixerGroup: {fileID: 5949041928585572614, guid: e95587beaa039c9488e3b17e54f9e884, type: 2}
   m_audioClip: {fileID: 8300000, guid: 21d489c09dce5d743ba053b95e341bd9, type: 3}
   m_PlayOnAwake: 1
   m_Volume: 1
@@ -3307,6 +3293,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1152864464}
   m_CullTransparentMesh: 1
+--- !u!114 &1192805481 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 436738342811312047, guid: 91ca500e39030c8468f04bda2abbd2b1, type: 3}
+  m_PrefabInstance: {fileID: 7698603882713233786}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &1243152746
 GameObject:
   m_ObjectHideFlags: 0
@@ -4816,6 +4813,7 @@ GameObject:
   - component: {fileID: 1691842116}
   - component: {fileID: 1691842115}
   - component: {fileID: 1691842114}
+  - component: {fileID: 1691842118}
   m_Layer: 5
   m_Name: Canvas
   m_TagString: Untagged
@@ -4911,6 +4909,21 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!114 &1691842118
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1691842113}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bdadd8cdd391674cb430a68476b691c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  myMixer: {fileID: 24100000, guid: e95587beaa039c9488e3b17e54f9e884, type: 2}
+  musicSlider: {fileID: 1192805481}
+  SFXSlider: {fileID: 1934911126}
 --- !u!1 &1704563544
 GameObject:
   m_ObjectHideFlags: 0
@@ -5327,6 +5340,17 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1844798358}
   m_CullTransparentMesh: 1
+--- !u!114 &1934911126 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3807871619986047250, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
+  m_PrefabInstance: {fileID: 5982459897962126080}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &2009776288
 GameObject:
   m_ObjectHideFlags: 0
@@ -5694,6 +5718,10 @@ PrefabInstance:
       propertyPath: m_audioClip
       value: 
       objectReference: {fileID: 8300000, guid: 41d49bc806f0dda448f2574fcb3a40a6, type: 3}
+    - target: {fileID: 4246998006321619794, guid: ad118bfd3d4ba584f8e98feb5ea51693, type: 3}
+      propertyPath: OutputAudioMixerGroup
+      value: 
+      objectReference: {fileID: -1976967557340003070, guid: e95587beaa039c9488e3b17e54f9e884, type: 2}
     - target: {fileID: 5711507429431881708, guid: ad118bfd3d4ba584f8e98feb5ea51693, type: 3}
       propertyPath: m_Name
       value: Music
@@ -5736,6 +5764,10 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 6628156033139965140, guid: ad118bfd3d4ba584f8e98feb5ea51693, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7849346592285353910, guid: ad118bfd3d4ba584f8e98feb5ea51693, type: 3}
+      propertyPath: m_Enabled
       value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
@@ -5978,6 +6010,26 @@ PrefabInstance:
       propertyPath: m_AnchorMax.y
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3807871619986047250, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
+      propertyPath: m_MaxValue
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807871619986047250, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
+      propertyPath: m_MinValue
+      value: 0.0001
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807871619986047250, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1691842118}
+    - target: {fileID: 3807871619986047250, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: setSFXvolume
+      objectReference: {fileID: 0}
+    - target: {fileID: 3807871619986047250, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: volumeMixer, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 3965672907691097429, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
       propertyPath: m_Delegates.Array.data[0].callback.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
@@ -5989,6 +6041,10 @@ PrefabInstance:
     - target: {fileID: 5943247273946171027, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
       propertyPath: m_Name
       value: Ambient Sound Volume
+      objectReference: {fileID: 0}
+    - target: {fileID: 5967455071902515281, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
+      propertyPath: m_Name
+      value: Slider SFX
       objectReference: {fileID: 0}
     - target: {fileID: 6024459139345398147, guid: 6abdcf0dd5dc09c409694df6d72b47bc, type: 3}
       propertyPath: m_Pivot.x
@@ -6117,6 +6173,26 @@ PrefabInstance:
     - target: {fileID: 41692709297052678, guid: 91ca500e39030c8468f04bda2abbd2b1, type: 3}
       propertyPath: m_Name
       value: Musik Volume
+      objectReference: {fileID: 0}
+    - target: {fileID: 436738342811312047, guid: 91ca500e39030c8468f04bda2abbd2b1, type: 3}
+      propertyPath: m_MaxValue
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 436738342811312047, guid: 91ca500e39030c8468f04bda2abbd2b1, type: 3}
+      propertyPath: m_MinValue
+      value: 0.0001
+      objectReference: {fileID: 0}
+    - target: {fileID: 436738342811312047, guid: 91ca500e39030c8468f04bda2abbd2b1, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1691842118}
+    - target: {fileID: 436738342811312047, guid: 91ca500e39030c8468f04bda2abbd2b1, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: setmusicvolume
+      objectReference: {fileID: 0}
+    - target: {fileID: 436738342811312047, guid: 91ca500e39030c8468f04bda2abbd2b1, type: 3}
+      propertyPath: m_OnValueChanged.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: volumeMixer, Assembly-CSharp
       objectReference: {fileID: 0}
     - target: {fileID: 733837129465872301, guid: 91ca500e39030c8468f04bda2abbd2b1, type: 3}
       propertyPath: m_Pivot.x

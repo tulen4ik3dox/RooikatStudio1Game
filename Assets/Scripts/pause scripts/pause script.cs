@@ -10,8 +10,6 @@ public class pausescript : MonoBehaviour
     public GameObject Settingsmenu;
     public GameObject pupps;
     public GameObject soundfolder;
-    public bool visible = false;
-    public bool visible2 = false;
 
 
 
@@ -22,10 +20,9 @@ public class pausescript : MonoBehaviour
     }
     private void Update()
     {
-        if (Input.GetKeyDown(KeyCode.Escape) && visible == false)
+        if (Input.GetKeyDown(KeyCode.Escape))
         {
             PauseMenu.SetActive(true);
-            visible = true;
             Time.timeScale = 0f;
             pupps.GetComponent<pupshodit>().enabled = false;
             soundfolder.SetActive(false);
@@ -41,7 +38,6 @@ public class pausescript : MonoBehaviour
     {
         PauseMenu.SetActive(false);
         Time.timeScale = 1f;
-        visible = false;
         pupps.GetComponent<pupshodit>().enabled = true;
         soundfolder.SetActive(true);
     }
@@ -64,7 +60,6 @@ public class pausescript : MonoBehaviour
     }
     public void settingsbutton()
     {
-        visible2 = true;
         Settingsmenu.SetActive(true);
         PauseMenu.SetActive(false);
     }
