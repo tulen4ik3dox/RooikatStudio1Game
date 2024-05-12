@@ -10,6 +10,7 @@ public class GoToPurgatory : MonoBehaviour
         {
             int index = SceneManager.GetActiveScene().buildIndex;
             SceneManager.LoadScene(index + 1);
+            Time.timeScale = 1.0f;
         }
 
     }
