@@ -17,11 +17,12 @@ public class puzlmaster : MonoBehaviour
 
     private void Update()
     {
-        if (Vector2.Distance(rb.transform.position, gameObject.transform.position) <0.05f)
+        if (Vector2.Distance(rb.transform.position, gameObject.transform.position) <0.05f && rb != null)
         {           
             Destroy(rb);
             cumni.cumni++;
-            rune.SetActive(true);
+            rune.SetActive(true); gameObject.GetComponent<puzlmaster>().enabled = false;
         }
+        
     }
 }

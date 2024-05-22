@@ -9,6 +9,7 @@ public class INtersnodialog : MonoBehaviour
     public List<GameObject> texts;
     public bool v1ras = true;
     public GameObject textpole;
+    
 
     void OnTriggerEnter2D (Collider2D sollsion)
     {
@@ -17,7 +18,7 @@ public class INtersnodialog : MonoBehaviour
         {
             textpole.SetActive(true);
             texts[0].SetActive(true);
-            Debug.Log("в рудиусе");
+            gameObject.GetComponent<Collider2D>().enabled = false;
             v1ras = false;
         }
     }

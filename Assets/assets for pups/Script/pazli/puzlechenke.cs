@@ -4,12 +4,12 @@ using UnityEngine;
 
 public class puzlechenke : MonoBehaviour
 {
-    public int cumni = 0;
+    public int cumni = 1;
     public AudioSource ss;
 
     void Update()
     {
-        if (cumni == 3)
+        if (cumni == 4)
         {
             gameObject.SetActive(false);
             ss.Play();  
