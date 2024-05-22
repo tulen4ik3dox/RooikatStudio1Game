@@ -308,7 +308,15 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Black_MEDIUMTRUCK_CLEAN_8D_000-sheet_0: 7342555297998130170
+      Black_MEDIUMTRUCK_CLEAN_8D_000-sheet_1: -3131427163001513366
+      Black_MEDIUMTRUCK_CLEAN_8D_000-sheet_2: -7075371468161820240
+      Black_MEDIUMTRUCK_CLEAN_8D_000-sheet_3: -6471428938133618573
+      Black_MEDIUMTRUCK_CLEAN_8D_000-sheet_4: 2557105570967809127
+      Black_MEDIUMTRUCK_CLEAN_8D_000-sheet_5: -7778569745158417611
+      Black_MEDIUMTRUCK_CLEAN_8D_000-sheet_6: 2269214616414675844
+      Black_MEDIUMTRUCK_CLEAN_8D_000-sheet_7: -5629711338891000230
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

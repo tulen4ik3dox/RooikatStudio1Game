@@ -7,24 +7,21 @@ public class puzlmaster : MonoBehaviour
 {
     public GameObject rune;
     public Rigidbody2D rb;
-    public bool _in = false;
+
+    public puzlechenke cumni;
 
     void Start()
     {
         rune.SetActive(false);
     }
 
-    // Update is called once per frame
-    private void OnTriggerEnter2D(Collider2D other)
+    private void Update()
     {
-        puzle _pauzle = other.GetComponent<puzle>();
-
-        if (_pauzle != null )
-        {
-            Transform target = other.transform;
-            rb.velocity = (transform.position - target.transform.position) * 2;
-            _in = true;
-            
+        if (Vector2.Distance(rb.transform.position, gameObject.transform.position) <0.05f)
+        {           
+            Destroy(rb);
+            cumni.cumni++;
+            rune.SetActive(true);
         }
     }
 }
