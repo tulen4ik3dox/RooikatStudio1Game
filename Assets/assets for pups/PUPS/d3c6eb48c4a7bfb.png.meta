@@ -1,22 +1,10 @@
 fileFormatVersion: 2
-guid: dff79eb2b0301ed4fbd574f1d2336cf8
+guid: 575981d2bce08114780ff86c29b35842
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -1617528557405092475
-    second: Untitled_09-04-2023_09-42-35_0
-  - first:
-      213: 3282380043092422242
-    second: Untitled_09-04-2023_09-42-35_1
-  - first:
-      213: -7496644157837925744
-    second: Untitled_09-04-2023_09-42-35_2
-  - first:
-      213: 2519521412716423535
-    second: Untitled_09-04-2023_09-42-35_3
-  - first:
-      213: 2017670676061318609
-    second: Untitled_09-04-2023_09-42-35_4
+      213: -5383877505781065600
+    second: d3c6eb48c4a7bfb_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -110,22 +98,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Untitled_09-04-2023_09-42-35_4
+      name: d3c6eb48c4a7bfb_0
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 33
-        height: 33
+        x: 119
+        y: 191
+        width: 962
+        height: 834
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 1dd6b503ac4300c10800000000000000
-      internalID: 2017670676061318609
+      spriteID: 08814b9feef9845b0800000000000000
+      internalID: -5383877505781065600
       vertices: []
       indices: 
       edges: []
@@ -133,19 +121,14 @@ TextureImporter:
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 44f4ac5714c863148bf40c26d5f4bcd5
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      Untitled_09-04-2023_09-42-35_0: -1617528557405092475
-      Untitled_09-04-2023_09-42-35_1: 3282380043092422242
-      Untitled_09-04-2023_09-42-35_2: -7496644157837925744
-      Untitled_09-04-2023_09-42-35_3: 2519521412716423535
-      Untitled_09-04-2023_09-42-35_4: 2017670676061318609
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
