@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 13312, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: volcanoe_tiles 1_477
   m_EditorClassIdentifier: 
-  m_Sprite: {fileID: 1234750020, guid: 711c17dc698cfea4b817d3b71fca7d6c, type: 3}
+  m_Sprite: {fileID: 1601309857, guid: 571571a5d7c9b5b48bf1984f72e49757, type: 3}
   m_Color: {r: 1, g: 1, b: 1, a: 1}
   m_Transform:
     e00: 1

@@ -97,7 +97,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -143,7 +143,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: Standalone
+    buildTarget: WebGL
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -155,7 +155,7 @@ TextureImporter:
     androidETC2FallbackOverride: 0
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
-    buildTarget: WebGL
+    buildTarget: Standalone
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
@@ -620,28 +620,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      volcanoe_assets_0: -16659937918100473
-      volcanoe_assets_1: -8108299064657259764
-      volcanoe_assets_10: 983662965891938142
-      volcanoe_assets_11: 6749275061237629665
-      volcanoe_assets_12: 4224811211266583652
-      volcanoe_assets_13: 6379918082927169609
-      volcanoe_assets_14: 560488937907079496
-      volcanoe_assets_15: 5130949334770337479
-      volcanoe_assets_16: 4110064190986559658
-      volcanoe_assets_17: 330093247005106138
-      volcanoe_assets_18: -3076242875844841703
-      volcanoe_assets_19: 8673452251824740581
-      volcanoe_assets_2: -6514630010732688378
-      volcanoe_assets_20: -3649376940287574525
-      volcanoe_assets_3: 2492590644652630241
-      volcanoe_assets_4: -5700989360479215382
-      volcanoe_assets_5: 1779209810459881635
-      volcanoe_assets_6: 9043950138130800914
-      volcanoe_assets_7: 7314410776365921660
-      volcanoe_assets_8: -8820418350371530963
-      volcanoe_assets_9: 2255785887701498046
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
